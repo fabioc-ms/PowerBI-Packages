@@ -5,9 +5,9 @@
     "guid": "VerbatimExplorerD13F83D6C74E41AEAFBA81E2A78FFEDD",
     "visualClassName": "Visual",
     "version": "1.0.0",
-    "description": "",
-    "supportUrl": "",
-    "gitHubUrl": ""
+    "description": "Discover what R packages are installed in the Power BI Service. Even the undocumented ones.",
+    "supportUrl": "https://github.com/fabioc-ms/PowerBI-Packages",
+    "gitHubUrl": "https://github.com/fabioc-ms/PowerBI-Packages"
   },
   "apiVersion": "1.7.0",
   "author": {
