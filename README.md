@@ -1,10 +1,10 @@
 # PowerBI-Packages
-Discover what R packages are installed in the Power BI Service. Even the undocumented ones.
+Discover the R packages installed in the Power BI Service. Even the undocumented ones.
 
 ![](https://github.com/fabioc-ms/PowerBI-Packages/blob/master/assets/screenshot.png)
 
 ## Instructions
-Install the visual and connect any data field just to make Power BI happy, the visual does not use anything passed to it. You can download the visual and a test PBIX file here: [Dowload](https://github.com/fabioc-ms/PowerBI-Packages/blob/master/dist/).
+Install the visual and connect any data field just to make Power BI happy, the visual does not use anything passed to it. You can download the visual and a test PBIX file here: [Download](https://github.com/fabioc-ms/PowerBI-Packages/blob/master/dist/).
 
 If you run this in PowerBI Desktop, then the visual will list the R packages installed locally in your machnine.
 
